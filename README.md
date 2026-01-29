@@ -6,7 +6,7 @@
 <h4 align="center">Software Engineer • Educator • Full-Stack Developer</h4>
 
 <p align="center">
-  <a href="https://gfec.in">🌐 Website</a> •
+  <a href="https://devsoumo.in">🌐 Website</a> •
   <a href="mailto:gfec.official@gmail.com">📧 Email</a>
 </p>
 
