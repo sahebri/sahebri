@@ -1,5 +1,6 @@
 <!-- ===================== HEADER BANNER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Software%20Engineering%20and%20Educator%20Profile&fontSize=32&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Software%20Engineering%20%26%20Educator%20Profile&fontSize=32&fontColor=ffffff" />
+
 
 <!-- ===================== INTRO ===================== -->
 <h2 align="center">👋 Hi, I'm Soumodeep</h2>
