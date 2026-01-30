@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://devsoumo.in">🌐 Website</a> •
-  <a href="mailto:gfec.official@gmail.com">📧 Email</a>
+  <a href="mailto:soumodeepmukherjee10@gmail.com">📧 Email</a>
 </p>
 
 ---
