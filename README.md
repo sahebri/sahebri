@@ -8,7 +8,9 @@
 
 <p align="center">
   <a href="https://devsoumo.in">🌐 Website</a> •
-  <a href="mailto:soumodeepmukherjee10@gmail.com">📧 Email</a>
+  <a href="mailto:soumodeepmukherjee10@gmail.com">📧 Email</a> •
+  <a href="https://www.instagram.com/soumodeep.mukherjee" target="_blank">📷 Instagram</a> •
+  <a href="https://www.linkedin.com/in/soumodeep-mukherjee-a64121194" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
