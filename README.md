@@ -6,10 +6,18 @@
 <h4 align="center">Software Engineer • Educator • Full-Stack Developer</h4>
 
 <p align="center">
-  <a href="https://devsoumo.in">🌐 Website</a> •
-  <a href="mailto:soumodeepmukherjee10@gmail.com">✉️ Email</a> •
-  <a href="https://www.instagram.com/soumodeep.mukherjee" target="_blank">📸 Instagram</a> •
-  <a href="https://www.linkedin.com/in/soumodeep-mukherjee-a64121194" target="_blank">🔗 LinkedIn</a>
+  <a href="https://devsoumo.in">
+    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:soumodeepmukherjee10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/soumodeep.mukherjee">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/soumodeep-mukherjee-a64121194">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 ---
 
